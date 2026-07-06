@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Ntethelelo Zungu
 
-<!--
-**honestntethelelo-sketch/honestntethelelo-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Electrical and Computer Engineering Student
 
-Here are some ideas to get you started:
+I am a 4th-year BEng Electrical and Computer Engineering student at the University of Zululand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building:
+
+- AI Engineering Projects
+- Embedded Systems
+- Raspberry Pi Projects
+- Arduino Projects
+- Computer Vision
+- Machine Learning
+- Power Electronics
+
+---
+
+## Skills
+
+- Python
+- Java
+- C++
+- MATLAB
+- Raspberry Pi
+- Visual Studio
+- SQL Sever
+- Octave
+- WireShark
+- PSCAD
+- Julia
+- STM32
+- PowerWold
+- PLCs
+- CPUlator
+
+---
+
+## Current Projects
+
+ AI-Based Sound Classification System For Pump Fault Dectation Using Raspberry Pi
+
+ Mars Rover
+
+ Recipe Manegment System
+---
+
+## Contact
+
+Email:
+honestntethelelo@gmail.com
+
+LinkedIn:
+linkedin.com/in/ntethelelo-zungu-284591393
