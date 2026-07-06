@@ -43,6 +43,14 @@ I enjoy building:
  Mars Rover
 
  Recipe Manegment System
+
+ Traffic Light with Emergency Vehicle Bypass–SANRAL, N1 Johannesburg 
+
+ Airport Baggage Handling Systems Assignment1 Group1-2026
+
+ Airport Baggage Handling Systems Assignment2 Group1
+
+ Instruction Encoder With Scheduling Simulation
 ---
 
 ## Contact
